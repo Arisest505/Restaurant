@@ -10,7 +10,7 @@ import {
 const servicios = [
  {
   titulo: "Catering para Eventos",
-  descripcion: "Diseñamos menús personalizados para bodas, cumpleaños y celebraciones, asegurando una experiencia culinaria inolvidable.",
+  descripcion: "Preparamos platos segun a su preferencia para bodas, cumpleaños y celebraciones, asegurando una experiencia culinaria inolvidable.",
   icono: PartyPopper,
  },
  {
@@ -18,11 +18,12 @@ const servicios = [
   descripcion: "Especialistas en carnes como pollo, chancho y pavo, preparadas con sazón de tradición para tu banquete.",
   icono: Drumstick,
  },
- {
-  titulo: "Menús Exclusivos",
+  {
+  titulo: "Platos Exclusivos",
   descripcion: "Ofrecemos una variedad de platos únicos y sabores regionales que se adaptan a tus gustos y a la ocasión.",
   icono: UtensilsCrossed,
  },
+ 
 ];
 
 export default function HomeServicios() {
@@ -39,6 +40,7 @@ export default function HomeServicios() {
         </h2>
         <p className="mt-4 font-sans text-lg text-slateSoft">
           Adaptados a cada ocasión, con amor, tradición y sabor real.
+
         </p>
       </div>
 

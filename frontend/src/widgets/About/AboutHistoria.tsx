@@ -32,7 +32,10 @@ export default function AboutHistoria() {
               Con el tiempo, perfeccionamos nuestras recetas y nos especializamos en la **preparación de banquetes para grandes eventos**, donde nuestros horneados de carnes se convirtieron en los protagonistas. Desde las celebraciones familiares hasta los matrimonios y bautizos, cada evento es una nueva página en nuestra historia.
           </p>
           <p className="mt-4 font-sans text-base text-slateSoft">
-              Hoy, AD es el resultado de esa pasión que se hizo negocio. Nos enorgullece ser los **maestros del horneado** que dan vida a tus fiestas, con el sabor de siempre y un servicio de lujo.
+              Hoy, AD es el resultado de esa pasión que se hizo real. Nos enorgullece ser los **maestros del horneado** que dan vida a tus fiestas, con el sabor de siempre y un servicio de calidad.
+          </p>
+          <p className="mt-4 font-sans text-base text-slateSoft">
+              Gracias por su preferencia y que Dios los bendiga.
           </p>
         </motion.div>
       </div>

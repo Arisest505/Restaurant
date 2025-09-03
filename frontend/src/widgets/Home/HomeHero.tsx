@@ -48,7 +48,7 @@ export default function HomeHero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-5xl font-bold leading-tight tracking-tight md:text-6xl font-fancy text-champagne drop-shadow-xl"
         >
-          Bienvenidos a <span className="text-mustard">AD</span>
+          Bienvenidos a <span className="text-mustard">Aranibal Daza</span>
         </motion.h1>
 
         {/* Descripción */}

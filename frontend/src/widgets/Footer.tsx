@@ -8,7 +8,7 @@ import {
   MoveRight,
   Video,
 } from "lucide-react";
-import logo from "/AD RESTAURANT (LOGO AMARILLO) (1).svg";
+import logo from "/LogoAmarillo_SOLOLOGO_ADFont.png";
 
 export default function Footer() {
   const { ref, inView } = useInView({ triggerOnce: false });

@@ -13,12 +13,12 @@ const platosImages = [
 const platosInfo = [
  {
     nombre: "Costillas de Cerdo Horneadas",
-    descripcion: "Costillas marinadas en nuestra sazón especial, horneadas lentamente hasta conseguir una carne jugosa y un sabor ahumado irresistible, acompañadas de papas doradas.",
+    descripcion: "Costillas marinadas en nuestra sazón especial, horneadas lentamente hasta conseguir una carne jugosa y un sabor ahumado irresistible, acompañadas de mote, papas, camote segun su preferencia.",
     tiempo: "1 hr 30 min",
     tipo: "Especialidad al Horno",
   },
   {
-    nombre: "Arroz Chaufa Selvático",
+    nombre: "Chaufa Amazónico",
     descripcion: "Un clásico de la cocina amazónica: arroz salteado con cecina, chorizo regional, tortilla de huevo y el toque dulce y único del plátano maduro frito.",
     tiempo: "25 min",
     tipo: "Fusión Amazónica",

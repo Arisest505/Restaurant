@@ -9,7 +9,7 @@ import {
 
 const servicios = [
  {
-  titulo: "Catering para Eventos",
+  titulo: "Banquetes para Eventos",
   descripcion: "Preparamos platos segun a su preferencia para bodas, cumpleaños y celebraciones, asegurando una experiencia culinaria inolvidable.",
   icono: PartyPopper,
  },

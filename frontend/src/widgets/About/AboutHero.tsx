@@ -22,6 +22,9 @@ export default function AboutHero() {
           Sobre Nosotros
         </h1>
         <p className="mt-4 text-lg text-[#f2e9d6] font-sans max-w-xl mx-auto">
+          Primeramente doy gracias a Dios por permitirme cumplir mis sueños 
+        </p>
+        <p className="mt-4 text-lg text-[#f2e9d6] font-sans max-w-xl mx-auto">
           Somos más que un servicio de Horneados: somos maestros del sabor. Descubre la historia, la misión y los valores que nos inspiran a convertir tu evento en un momento inolvidable.
         </p>
       </motion.div>

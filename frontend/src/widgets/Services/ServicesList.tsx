@@ -9,13 +9,13 @@ import {
 
 const services = [
   {
-    titulo: "Catering para Eventos",
-    descripcion: "Menús completos y personalizados para **bodas, cumpleaños, bautizos y reuniones**, garantizando sabor y abundancia en tu celebración.",
+    titulo: "Banquetes para Eventos",
+    descripcion: "Platos a su preferencia para **bodas, cumpleaños, bautizos, reuniones y todo tipo de eventos**, garantizando sabor y abundancia en tu celebración.",
     icono: <PartyPopper className="w-8 h-8 text-mustard" />,
   },
   {
     titulo: "Especialidad en Horneados",
-    descripcion: "El arte de hornear **pollo, chancho y pavo** con un sazón único. Disponibles por encargo para tu banquete o reunión especial.",
+    descripcion: "El arte de hornear **pollo, chancho y pavo y muchas otras carnes** con un sazón único. Disponibles por encargo para tu banquete o reunión especial.",
     icono: <Microwave className="w-8 h-8 text-mustard" />,
   },
   {

@@ -13,7 +13,7 @@ export default function ServicesPage() {
         <ServicesHero />
         <ServicesList />
         <PlatoCategoria titulo="Nuestra Especialidad: Horneados" platos={serviciosData["Nuestra Especialidad: Horneados"]} />
-        <PlatoCategoria titulo="Servicios de Catering y Banquetes" platos={serviciosData["Servicios de Catering y Banquetes"]} />
+        <PlatoCategoria titulo="Servicios de  Banquetes" platos={serviciosData["Servicios de  Banquetes"]} />
         <PlatoCategoria titulo="Pedidos a la Carta" platos={serviciosData["Pedidos a la Carta"]} />
       </main>
       <Footer />

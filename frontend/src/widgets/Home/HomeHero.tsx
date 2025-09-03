@@ -48,7 +48,7 @@ export default function HomeHero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-5xl font-bold leading-tight tracking-tight md:text-6xl font-fancy text-champagne drop-shadow-xl"
         >
-          Bienvenidos a <span className="text-mustard">Aranibal Daza</span>
+          Bienvenid@s a <span className="text-mustard">AD</span> <span className="text-sm">(Aranibar Daza)</span>
         </motion.h1>
 
         {/* Descripción */}
@@ -58,7 +58,10 @@ export default function HomeHero() {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="mt-5 text-lg md:text-xl text-[#f2e9d6] font-sans tracking-wide leading-relaxed"
         >
-          El sabor que tus eventos merecen. Nuestra pasión por el horneado hace de tu banquete una experiencia única.
+         Primeramente doy gracias a Dios por su amor y bendciones.
+         <br />
+         <br />
+          AD les ofrece el sabor que tus eventos merecen. Nuestra pasión por el horneado hace de tu banquete una experiencia única.
         </motion.p>
 
         {/* Botón */}

@@ -39,10 +39,10 @@ export default function HomeAbout() {
               En <span className="font-bold text-charcoal">AD</span>, nos especializamos en llevar el arte de la alta cocina a tus eventos más importantes. Fusionamos la pasión por el sabor con la maestría en el banquete, creando una experiencia culinaria inolvidable.
           </p>
           <p className="mt-4 font-sans text-base text-slateSoft">
-              Somos expertos en <strong>horneados de carnes selectas</strong> como pollo, chancho, pavo y muchos más. Nuestros horneados están preparados a la perfección para deleitar a todos tus invitados. Con el sabor de nuestras raices peruanas, cada plato es una celebración de tradición y excelencia.
+              Somos expertos en <strong>horneados de carnes selectas</strong> como pollo, chancho, pavo y muchos más. Nuestros horneados están preparados a la perfección para deleitar a todos tus invitados. Con el sabor de nuestras raices peruanas, cada plato es una celebración de tradición y excelencia.º
           </p>
           <p className="mt-4 font-sans text-base text-slateSoft">
-              Deleita a tus invitados en **matrimonios, cumpleaños y celebraciones familiares**. En <span className="font-bold text-charcoal">AD</span>, garantizamos un servicio de lujo y un sabor excepcional para que disfrutes de tu evento sin preocupaciones.
+              Deleita a tus invitados en **matrimonios, cumpleaños y celebraciones familiares**. En <span className="font-bold text-charcoal">AD</span>, garantizamos un servicio de calidad y un sabor excepcional para que disfrutes de tu evento sin preocupaciones.
           </p>
         </motion.div>
       </div>

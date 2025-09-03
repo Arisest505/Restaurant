@@ -35,10 +35,10 @@ export const serviciosData: Record<string, Servicio[]> = {
       icono: <Drumstick />,
     },
   ],
-    "Servicios de Catering y Banquetes": [
+    "Servicios de  Banquetes": [
     {
       nombre: "Banquete Completo",
-      descripcion: "Menús diseñados para bodas, bautizos y reuniones, con servicio personalizado y atención de lujo.",
+      descripcion: "Platos diseñados para bodas, bautizos y reuniones, con servicio personalizado y atención de calidad.",
       imagen: "/Banqshgjk71g18f10532d605.jpg",
       icono: <Sparkles />,
     },
@@ -46,7 +46,7 @@ export const serviciosData: Record<string, Servicio[]> = {
   ],
   "Pedidos a la Carta": [
     {
-      nombre: "Menú Especial del Día",
+      nombre: "Plato Especial del Día",
       descripcion: "Disfruta de nuestros platos caseros con el sazón de siempre, disponibles para pedidos individuales.",
       imagen: "/MTOQIN6QSJC2PHDRN3B6NZWRLA.avif",
       icono: <Soup />,

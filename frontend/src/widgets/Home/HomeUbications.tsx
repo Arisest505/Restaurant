@@ -30,7 +30,8 @@ export default function HomeUbications() {
         <div className="w-full h-[400px] rounded-3xl overflow-hidden shadow-lg">
           <iframe
             title="Ubicación Sabor Real"
-           src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d316.5292126287911!2d-77.64612002776315!3d-10.968696238238444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2spe!4v1754588063578!5m2!1ses!2spe"
+          
+           src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d666.9584165098964!2d-77.65257012432689!3d-10.93338178516549!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2spe!4v1756941469284!5m2!1ses!2spe"
             width="100%"
             height="100%"
             allowFullScreen
